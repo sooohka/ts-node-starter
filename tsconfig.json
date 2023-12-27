@@ -17,7 +17,7 @@
     "strict": true,
     "noUncheckedIndexedAccess": true,
 
-    "types": ["node", "./src/types/global.d.ts"],
+    "types": ["node"],
 
     "moduleResolution": "Bundler",
     "module": "ESNext",
