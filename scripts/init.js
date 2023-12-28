@@ -16,7 +16,6 @@ const files = [
   ".vscode",
   "src",
   ".eslintrc.cjs",
-  ".lintstagedrc.cjs",
   ".prettierrc.cjs",
   "tsconfig.json",
   "tsup.config.ts",
