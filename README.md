@@ -2,7 +2,17 @@
 
 > starter template for **nodejs + typescript** project powered by tsup
 
-## Usage
+## Features
+
+- ⛑ TypeScript
+- 📏 ESLint — To find and fix problems in your code
+- 💖 Prettier — Code Formatter for consistent style
+- 🐶 Husky — For running scripts before committing
+- 🚫 lint-staged — Run typechecking, ESLint and Prettier against staged Git files
+- 📦 Tsup - To Bundle your ts code easily
+- 🧪 Vitest - To test your code
+
+## Quick Start
 
 npm
 
